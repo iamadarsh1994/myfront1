@@ -3,3 +3,6 @@ body{
     display: flex;
     justify-content: center;
 }
+nav{border: 2px red solid;
+margin: 10px;
+font-size: 30px;}
